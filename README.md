@@ -1,2 +1,2 @@
 # CubeRushUnity
-My first Unity Project
+My first Unity project
